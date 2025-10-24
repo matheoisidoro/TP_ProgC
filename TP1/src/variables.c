@@ -1,17 +1,17 @@
 #include <stdio.h>
 
 int main() {
-    char c = 'A';
-    unsigned char uc = 200;
-    short s = -123;
-    unsigned short us = 123;
-    int i = -1000;
-    unsigned int ui = 1000;
-    long l = -10000;
-    unsigned long ul = 10000;
-    long long ll = -50000;
-    unsigned long long ull = 50000;
-    float f = 3.14;
+    char c = 'M';
+    unsigned char uc = 250;
+    short s = -800;
+    unsigned short us = 800;
+    int i = -1500;
+    unsigned int ui = 1500;
+    long l = -15000;
+    unsigned long ul = 15000;
+    long long ll = -55000;
+    unsigned long long ull = 55000;
+    float f = 3.19;
     double d = 2.71828;
     long double ld = 1.23456;
 
@@ -31,4 +31,5 @@ int main() {
 
     return 0;
 }
+
 
